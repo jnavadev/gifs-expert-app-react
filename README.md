@@ -6,4 +6,4 @@ proyecto creado con las tecnologias:
 
 VITE,
 React
-Js
+NodeJs
